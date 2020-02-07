@@ -1,8 +1,7 @@
-main {
+.animals {
   display: flex;
-  flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  flex-flow: row wrap;
+  width: 90%;
 }
-
-
